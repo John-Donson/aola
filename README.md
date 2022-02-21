@@ -19,7 +19,7 @@
 
 | Task           | Time required | Assigned to   | Current Status | Finished | 
 |----------------|---------------|---------------|----------------|-----------|
-| Calendar Cache | > 5 hours  |  | in progress |  
+| Calendar Cache | > 5 hours  |  | in progress |                      - [x]
 | Object Cache   | > 5 hours  |  | in progress |
 | Object Cache   | > 5 hours  |  | in progress | 
 | Object Cache   | > 5 hours  |  | in progress | 
