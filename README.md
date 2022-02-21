@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 [Internal link to a picture](./img/sleep-g4a40c23a8_1280.jpg)
 
-[Jum to bottom](#bottom)
+[Jump to bottom](#bottom)
 
 
 ## Table
