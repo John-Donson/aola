@@ -7,23 +7,22 @@
 
 ## Project status
 
-- [x] Design
-- [x] Mockups
-- [x] Development
-- [x] Unit testing
-- [ ] QA
-- [ ] Stage
-- [ ] Beta Testing
-- [ ] Production
+- [x] Tables
+- [x] Emojis
+- [x] External Link
+- [x] Internal Link
 
 
-| Task           | Time required | Assigned to   | Current Status | Finished | 
-|----------------|---------------|---------------|----------------|-----------|
-| Calendar Cache | > 5 hours  |  | in progress |  
-| Object Cache   | > 5 hours  |  | in progress |
-| Object Cache   | > 5 hours  |  | in progress | 
-| Object Cache   | > 5 hours  |  | in progress | 
+[External link to google](https://www.google.com)
 
 
-- [x] works
-- [x] works too 
+[Internal link to a picture](./img/sleep-g4a40c23a8_1280.jpg)
+
+
+
+
+| Coffee  |   Tiredness    |  Time |
+|----------|:-------------:|------:|
+| 1 |  still tired         | 8:45  |
+| 2 |    yet a bit tired   | 10:40 |
+| 3 | quite alright        | 13:10 |
