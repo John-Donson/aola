@@ -5,7 +5,7 @@
 
 :grimacing:
 
-\### Project status
+## Project status
 
 - [x] Design
 - [x] Mockups
